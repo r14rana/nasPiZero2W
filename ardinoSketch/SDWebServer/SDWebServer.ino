@@ -26,8 +26,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, display_RESET);
 //Redmi Note 7 Pro
 //123456789
 
-const char* ssid = "Redmi Note 7 Pro";
-const char* password = "123456789";
+const char* ssid = "Stampede_net";
+const char* password = "GPI@1234";
 const char* host = "esp8266sd";
 
 ESP8266WebServer server(80);
